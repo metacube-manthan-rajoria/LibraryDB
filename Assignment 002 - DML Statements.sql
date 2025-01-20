@@ -13,3 +13,4 @@ INSERT INTO Borrowing(MemberID, BookID, BorrowDate, ReturnDate) VALUES (1, 5, '2
 INSERT INTO Borrowing(MemberID, BookID, BorrowDate, ReturnDate) VALUES (1, 3, '2024-12-10', '2025-01-08');
 INSERT INTO Borrowing(MemberID, BookID, BorrowDate, ReturnDate) VALUES (4, 2, '2023-09-23', '2023-10-14');
 INSERT INTO Borrowing(MemberID, BookID, BorrowDate, ReturnDate) VALUES (3, 4, '2010-03-19', '2019-07-20');
+INSERT INTO Borrowing(MemberID, BookID, BorrowDate, ReturnDate) VALUES (2, 2, '2023-10-29', '2024-11-03');
