@@ -55,7 +55,6 @@ Create a database named LibraryDB.
 - Create another trigger that:
     - Prevents deleting a book from the Books table if it is currently borrowed by any member.
 
-
 ### Submission Requirements
 
 SQL scripts for creating the database, tables, indexes, views, and triggers.
